@@ -12,11 +12,13 @@ html {
 header {
   background: #370082;
   height: 70px;
+  width: 90%;
   color: aliceblue;
   font-style: italic;
   font-size: 40px;
   text-align: left;
-  padding: 20px;
+  padding: 20px 0 5px 20px;
+  border-bottom: 1px solid aliceblue;
 }
 
 main {
